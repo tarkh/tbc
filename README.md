@@ -1,4 +1,4 @@
-![](https://github.com/tarkh/tbc/blob/master/img/logo.png?s=100)
+<img style="align:center;max-width:100px;height:auto;" src="https://github.com/tarkh/tbc/blob/master/img/logo.png">
 
 ## About
 TBC (Trading Bots Commander) application was created in order to facilitate the process of managing trading bots. You can easily save and update the settings, create work profiles, start, stop and monitor your bots. TBC works with GBot trader terminal, all manuals and FAQ could be found on it's [official page](https://gbot-trader.herokuapp.com)
