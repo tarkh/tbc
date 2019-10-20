@@ -33,6 +33,7 @@ TBC (Trading Bots Commander) application was created in order to facilitate the 
 All configs exists in JSON format. You can easily edit them, but before that read some information about syntaxis and other format details. It is also strongly adviced to use some advanced text editor with JSON syntaxis highlight to prevent any possible mistakes
 
 *** app-default.json ***
+
 | Parameters | Description | Type |
 | --- | --- | --- |
 | user | Username for TBC interface access authentication | string |
