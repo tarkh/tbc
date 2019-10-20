@@ -16,16 +16,16 @@ TBC (Trading Bots Commander) application was created in order to facilitate the 
 # How to start
 1. Get TBC from download section below and unzip it
 2. To run TBC application:
-    - On Windows run TBC-win.exe file
-    - On MacOS open Terminal app, drag TBC-macos file to it and press Enter
-    - On Linux run TBC-linux file from console
+    - On Windows run `TBC-win.exe` file
+    - On MacOS open `Terminal` app, drag `TBC-macos` file to it and press Enter
+    - On Linux run `TBC-linux` file from console
 3. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)
 4. Install latest version of GBot trader from settings menu in TBC
 
 # How to run bot
 1. Create new bot in Bots column (left)
 2. Create new working config for your bot in Bot configs column (middle)
-3. In Config script column (right) paste your settings in KEY=VALUE format. Save your config
+3. In Config script column (right) paste your settings in `KEY=VALUE` format. Save your config
 4. Activate selected config in Bot configs section (middle)
 5. Perfect! Now you can start bot. Red indicator should become green
 
