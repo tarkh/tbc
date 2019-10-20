@@ -54,11 +54,11 @@ All configs exists in JSON format. You can easily edit them, but before that rea
 | hostname | Hostname for TBC server. If you want to run it locally, then you can set value localhost. If your server has dedicated IP address or Domain name, you can use one of them to be able to reach your user interface from internet | string |
 
 # Credits
-Created by Tarkh
+Created by Tarkh  
 If you like this software and interested in new features and updates, please support ;)
 
-BTC: 1CLaXZE6kQNTHqkHW4k54cVqXDRurhDLt3
-ETH: 0x701df74d2cfa1fd4afccbeea0fa199501c56e3a1
-ETC: 0x34906cd6190ac5bfe8150eb0f0503fcbd5a9d036
-Telegram: [@tarkhx](https://t.me/tarkhx)
-Email: [tarkhx@gmail.com](mailto:tarkhx@gmail.com)
+BTC: 1CLaXZE6kQNTHqkHW4k54cVqXDRurhDLt3  
+ETH: 0x701df74d2cfa1fd4afccbeea0fa199501c56e3a1  
+ETC: 0x34906cd6190ac5bfe8150eb0f0503fcbd5a9d036  
+Telegram: [@tarkhx](https://t.me/tarkhx)  
+Email: [tarkhx@gmail.com](mailto:tarkhx@gmail.com)  
