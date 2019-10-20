@@ -1,7 +1,9 @@
-# About
+![](https://github.com/tarkh/tbc/blob/master/img/screen-01-en.png)
+
+## About
 TBC (Trading Bots Commander) application was created in order to facilitate the process of managing trading bots. You can easily save and update the settings, create work profiles, start, stop and monitor your bots. TBC works with GBot trader terminal, all manuals and FAQ could be found on it's [official page](https://gbot-trader.herokuapp.com)
 
-# Features
+## Features
 - Install and update GBot trader from user interface
 - Easy to start - you don't need to install NodeJS or any NPM modules
 - Create as many bots as you wish
@@ -13,7 +15,7 @@ TBC (Trading Bots Commander) application was created in order to facilitate the 
 
 [Check out how-to video on YouTube](https://youtu.be/EiCj8JwZo8I)
 
-# How to start
+## How to start
 1. Get TBC from download section below and unzip it
 2. To run TBC application:
     - On Windows run `TBC-win.exe` file
@@ -22,14 +24,14 @@ TBC (Trading Bots Commander) application was created in order to facilitate the 
 3. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)
 4. Install latest version of GBot trader from settings menu in TBC
 
-# How to run bot
+## How to run bot
 1. Create new bot in Bots column (left)
 2. Create new working config for your bot in Bot configs column (middle)
 3. In Config script column (right) paste your settings in `KEY=VALUE` format. Save your config
 4. Activate selected config in Bot configs section (middle)
 5. Perfect! Now you can start bot. Red indicator should become green
 
-# Settings
+## Settings
 All configs exists in JSON format. You can easily edit them, but before that read some information about syntaxis and other format details. It is also strongly adviced to use some advanced text editor with JSON syntaxis highlight to prevent any possible mistakes
 
 ***app-default.json***
@@ -53,7 +55,7 @@ All configs exists in JSON format. You can easily edit them, but before that rea
 | httpPort | Port for TBC to run on. Check that port is free before assign! If you want to reach your user interface from internet, dont forget to open selected port in servers firewall | number |
 | hostname | Hostname for TBC server. If you want to run it locally, then you can set value localhost. If your server has dedicated IP address or Domain name, you can use one of them to be able to reach your user interface from internet | string |
 
-# Credits
+## Credits
 Created by Tarkh  
 If you like this software and interested in new features and updates, please support ;)
 
